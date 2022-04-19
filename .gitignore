@@ -130,3 +130,6 @@ dmypy.json
 
 #IDE
 .vscode/
+
+#workspace folder
+dev-code-workspace
